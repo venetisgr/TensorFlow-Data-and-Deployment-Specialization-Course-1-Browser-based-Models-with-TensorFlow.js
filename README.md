@@ -5,4 +5,4 @@ This repository contains my personal solutions for the weekly projects and a few
 
 *All credits go to deeplearning.ai*
 
-PS: drop a star if you liked them :)
+
